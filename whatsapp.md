@@ -32,3 +32,6 @@ Tips :
 
 - Is user on message page then he/she is active emit an event!
 - Is user typing you have onKeyDown onKeyUp events on js , emit an event and let other part know that user is typing.
+
+<img src="wp0.png" width="500px" />
+<img src="wp1.png" width="500px" />
