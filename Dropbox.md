@@ -13,7 +13,7 @@ Here are  the features to implement.
 
 ## Files
 
--Upload files to specific folder with categories
+- Upload files to specific folder with categories
 	- /images
 	- /videos
 	- /documents
