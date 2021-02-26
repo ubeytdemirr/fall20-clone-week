@@ -51,6 +51,8 @@ Here are  the features to implement.
 
 **Arent these enough for you ?**
 
+Do you like more backend ?
+
 ## [Extra] Notifications
 
 - Implement notification feature with socket.io
@@ -58,7 +60,21 @@ Here are  the features to implement.
 	- Mentions : when a tweet contains your username 
 	- Reactions : If someone comment/likes/retweets your tweet 
 
+Do you like more frontend ? 
+
+## [Extra] Theming
+
+- Allow users to change theme of your app
 
 
 
+
+<img src="tw0.png" width="500px" />
+<img src="tw1.png" width="500px" />
+<img src="tw2.png" width="500px" />
+<img src="tw3.png" width="500px" />
+<img src="tw4.png" width="500px" />
+<img src="tw5.png" width="500px" />
+<img src="tw6.png" width="500px" />
+<img src="tw7.png" width="500px" />
 
