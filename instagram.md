@@ -32,7 +32,7 @@ Here are the features to implement:
 - implement private 1on1 chat.
 - implement messages that will disappear after 24 hours
 
-**Not enough ? **
+**Not enough?**
 
 ## [EXTRA] Stories
 
