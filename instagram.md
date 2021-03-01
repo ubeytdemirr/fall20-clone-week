@@ -2,7 +2,7 @@
 
 We love instagram, its an app that we use to share best moments in our life!
 
-We are thinking it would be cool to have one :)
+But it doesnt have image upload feature on web , lets make it!
 
 Here are the features to implement:
 
@@ -10,7 +10,7 @@ Here are the features to implement:
 
 - user should register and login with email password or oauth.
 - user should be able to edit their profile details, such as avatar, username (only their own data)
-- user profile should contain history of all the posts.
+- user profile should contain previous posts.
 
 ## Posts
 
@@ -19,7 +19,6 @@ Here are the features to implement:
 - it should be possible to like/unlike post.
 - it should be possible to see the list of users who liked the post.
 
-Tip: use Cloudinary for photo uploads
 
 ## [EXTRA] Connections
 
@@ -33,11 +32,15 @@ Tip: use Cloudinary for photo uploads
 - implement private 1on1 chat.
 - implement messages that will disappear after 24 hours
 
+** arent these enough for you ? **
+
+## [EXTRA] Stories
+
+- Add stories feature to upload videos (max 10 sec) or photos to your stories
 
 Tips :
 
  - Use cloudinary to serve images
- - Instagram web doesnt have photo upload feature, add one !
 
 Deploy the project, show everyone how skilled you are!
 
