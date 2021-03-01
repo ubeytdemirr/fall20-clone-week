@@ -10,7 +10,7 @@
 
 
 
-## Options 
+## Options 
 
 - [Whatsapp](./whatsapp.md)
 - [Instagram](./instagram.md)
