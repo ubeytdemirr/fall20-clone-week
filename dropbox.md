@@ -36,7 +36,12 @@ Here are  the features to implement.
 - Filter files by category
 - Search files by name
 - Sort by upload date.
-- 
+
+Tips:
+
+- Use [react-dropzone](https://react-dropzone.js.org) to implement drag&drop upload feature.
+
+
 **Arent these enough for you ?**
 
 ## [Extra] Share it
@@ -46,7 +51,9 @@ Here are  the features to implement.
 
 Deploy the project, show everyone how skilled you are!
 
-
+<img src="db0.png" />
+<img src="db2.png" />
+<img src="db3.png" />
 
 
 
