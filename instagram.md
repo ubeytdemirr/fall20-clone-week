@@ -28,3 +28,6 @@ Tip: use Cloudinary for photo uploads
 - user should be able to search other users to start chat with by username.
 - implement private 1on1 chat.
 - implement messages that will disappear after 24 hours
+
+
+Deploy the project, show everyone how skilled you are!
