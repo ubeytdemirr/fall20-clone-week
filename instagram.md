@@ -1,4 +1,4 @@
-# Instagram Clone
+<img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" width="400">
 
 Here are the features to implement:
 
