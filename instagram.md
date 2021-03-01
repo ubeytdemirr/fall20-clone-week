@@ -30,4 +30,13 @@ Tip: use Cloudinary for photo uploads
 - implement messages that will disappear after 24 hours
 
 
+Tips :
+
+ - Use cloudinary to serve images
+ - Instagram web doesnt have photo upload feature, add one !
+
 Deploy the project, show everyone how skilled you are!
+
+
+<img src="ig0.png">
+<img src="ig1.png">
