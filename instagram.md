@@ -1,5 +1,9 @@
 <img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" width="400">
 
+We love instagram, its an app that we use to share best moments in our life!
+
+We are thinking it would be cool to have one :)
+
 Here are the features to implement:
 
 ## Users
