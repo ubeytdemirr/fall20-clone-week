@@ -14,23 +14,23 @@ Here are the features to implement:
 
 ## Chat
 
-- user should be able to see/delete previous chats (they can see & delete only their own data)
-- user should be able to search other users to start chat with by username
-- implement private 1on1 chat
-- chat can contain text, media (photo only) or both.
-- user should be able to add emoji to messages. (we can't think whatsapp without emojis, right?)
-- implement a group chat.
+- User should be able to see/delete previous chats (they can see & delete only their own data)
+- User should be able to search other users to start chat with by username
+- Implement private 1on1 chat
+- Chat can contain text, media (photo only) or both.
+- User should be able to add emoji to messages. (we can't think whatsapp without emojis, right?)
+- Implement a group chat.
 - [EXTRA] user should be able to send a private message to a specific user in a group chat
 - [EXTRA] implement the possibility of sending attachments as a message
 - [EXTRA] Change chat background image.
 
 Tips :
 
-- User react-chat-elements, it has whatsapp look&feel components.
+- Use [react-chat-elements](https://www.npmjs.com/package/react-chat-elements), it has whatsapp look&feel components.
 
 ## Idle
 
-- Is user on message page then he/she is active emit an event!
+- Is user on message page ? then he/she is active emit an event!
 - Is user typing ?  you have onKeyDown onKeyUp events on js, emit an event and let other parts know that user is typing.
 
 
