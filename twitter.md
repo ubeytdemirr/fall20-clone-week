@@ -60,6 +60,8 @@ Do you like more frontend?
 
 - Allow users to change theme of your app
 
+Deploy the project, show everyone how skilled you are!
+
 
 
 
