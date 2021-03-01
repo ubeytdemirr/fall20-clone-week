@@ -1,8 +1,8 @@
-# WhatsApp Clone
+<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" width="400">
 
 > We all use WhatsApp daily to talk with friends and family.
-> Did you like real-time programming with socket.io, we also like it its super cool, isn't it?
-> If you also like it, we think whatsapp would be a good fit to your portfolio!
+> Did you like real-time programming with socket.io? we also like it its super cool, isn't it?
+> We think whatsapp would be a good fit to your portfolio!
 > It's your last build week. You will create both backend and frontend from scratch
 
 Here are the features to implement:
